@@ -169,6 +169,15 @@ The minimum supported version of Python for this repository is currently `3.8.x`
 Python plugins users must ensure to have a version `>= 3.8`.
 Python plugins developers must ensure their plugin to work with all Python versions `>= 3.8`.
 
+#### Contributing
+
+Whenever submitting code contributions for this repository, we should try to stick to the format 'lightning' uses, something like:
+
+'''
+plugin name: One subject line
+        (empty line)
+more detailed description (if any)
+'''
 
 ## More Plugins from the Community
 
