@@ -176,9 +176,11 @@ Python plugins developers must ensure their plugin to work with all Python versi
 Whenever submitting code contributions for this repository, we should try to stick to the format 'lightning' uses, something like:
 
 ´´´
+
 plugin name: One subject line
         (empty line)
 more detailed description (if any)
+
 ´´´
 
 ## More Plugins from the Community
